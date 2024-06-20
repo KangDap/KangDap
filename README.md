@@ -1,6 +1,6 @@
 Hello!
 
-<!--[![Dafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangDap)](https://github.com/KangDap)-->
+<!--[![Dafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangDap&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/KangDap)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangDap&layout=compact&theme=tokyonight)](https://github.com/KangDap)
 
